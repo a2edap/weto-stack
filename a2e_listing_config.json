@@ -1,5 +1,5 @@
 {
-  "intro_markdown": "Refer to the [WETO Software Stack Dashboard](https://rafmudaf.github.io/WETOStack/index.html) for information related to a multiyear effort to elevate the quality and robustness of the software portfolio supported by Department of Energy’s Wind Energy Technologies Office (WETO).",
+  "intro_markdown": "Refer to the [WETO Software Stack Dashboard](https://nrel.github.io/WETOStack/index.html) for information related to a multiyear effort to elevate the quality and robustness of the software portfolio supported by Department of Energy’s Wind Energy Technologies Office (WETO).",
   "github": {
     "repositories": [
       "a2edap/awaken-cookiecutter",
